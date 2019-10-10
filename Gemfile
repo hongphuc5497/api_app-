@@ -17,6 +17,7 @@ gem 'puma', '~> 3.11'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'active_model_serializers'
 gem 'rack-cors', '~> 0.4.0'
+gem 'rack-attack'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 

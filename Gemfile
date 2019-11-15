@@ -16,7 +16,7 @@ gem 'puma', '~> 3.11'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'active_model_serializers'
-gem 'rack-cors', '~> 0.4.0'
+gem 'rack-cors', '~> 1.0.5'
 gem 'rack-attack'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
